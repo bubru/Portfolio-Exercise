@@ -15,4 +15,4 @@ Também adquiri alguns conhecimentos sobre arquivos SVG. O logo do site foi cria
 O maior desafio foi tornar a página responsiva. Foram necessárias várias mudanças até a página ficar visualmente agradável de conseguir navegar quando redimensionada.
 
 
-
+[Bruno Henrique - Front End Dev. Jr.](https://bubru.github.io/Portfolio-Exercise/)
