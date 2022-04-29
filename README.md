@@ -20,3 +20,8 @@ O maior desafio foi tornar a página responsiva. Foram necessárias várias muda
 
 
 [Bruno Henrique - Front End Dev. Jr.](https://bubru.github.io/Portfolio-Exercise/)
+
+## Tecnologias
+
+- CSS3
+- HTML5
