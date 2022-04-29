@@ -5,8 +5,10 @@ Exercício do curso de CSS/HTML/Javascript ministrado pelo professor André Rafa
 Neste exercício devemos replicar uma página criada pelo professor usando os conhecimentos de CSSC e HTML5 aprendidos no curso. O professor nos recomenda fazermos alterações a vontado, afim de treinarmos e usarmos o máximo possível o que aprendemos até então.
 
 O projeto foi construído usando o visual code, figma e o site boxy-svg.
-O conteúdo textual da página é puramente fictício.
 
+ ***O conteúdo textual da página é puramente fictício.*** 
+
+## O exercício
 
 Na página em que construí, fiz algumas mudanças na estrutura usando grid/flex-box, alterei cores e tamanhos das fontes, aplicando alguns conceitos de UI design e alterei as dimensões dos elementos para que a página se tornasse responsiva.
 
